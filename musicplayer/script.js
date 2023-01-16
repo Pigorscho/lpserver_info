@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'musicplayer/images/music_cover.jpg',
+        img : '/musicplayer/images/music_cover.jpg',
         name : 'Tapping Out',
         artist : 'Ari@Home',
         music : 'musicplayer/music/tapping_out.mp3'
