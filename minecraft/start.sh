@@ -1,0 +1,1 @@
+echo screen -AmdS "minecraft" java -Xmx20480M -Xms20480M -jar /opt/minecraft/server.jar --port 25565

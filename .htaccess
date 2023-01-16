@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Thou shall not pass!"
+AuthUserFile /var/www/lpserver.de/public/.htpasswd
+Require valid-user

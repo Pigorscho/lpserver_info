@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee35b126-2626-41c2-a8c7-d9c78c1314c4" name="lpserver" url="http://www.lpserver.de">
+        <fileTransfer rootFolder="/var/www/lpserver.de" accessType="SFTP" host="www.lpserver.de" port="22" sshConfigId="7c4a7ea4-9a8b-4846-adb3-13a07c24c0b4" sshConfig="root@www.lpserver.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
